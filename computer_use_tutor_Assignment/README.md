@@ -1,10 +1,9 @@
-# ChronoGrid
+# Calendrix
 
 A high-fidelity Google Calendar clone built with the MERN stack, featuring professional UI/UX, full event management, recurrence support, and real-time drag & drop functionality.
 
 ## Overview
-
-ChronoGrid is a modern, production-ready calendar application that replicates the core functionality of Google Calendar with a clean, professional interface. Built with React, Node.js, Express, MongoDB, and modern web technologies, it provides a seamless calendar experience with advanced features like recurring events, conflict detection, and responsive design.
+Calendrix is a modern, production-ready calendar application that replicates the core functionality of Google Calendar with a clean, professional interface. Built with React, Node.js, Express, MongoDB, and modern web technologies, it provides a seamless calendar experience with advanced features like recurring events, conflict detection, and responsive design.
 
 ## Features
 
